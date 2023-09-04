@@ -1,2 +1,2 @@
 # crab-age-prediction
-kaggle competition
+[link to competition](https://www.kaggle.com/competitions/playground-series-s3e16/overview)
